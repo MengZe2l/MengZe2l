@@ -9,7 +9,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow,php,nginx&perline=13)](#)
 
 ## My Github Status
 
