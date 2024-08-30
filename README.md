@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm @MengZe2l
+![github contribution grid snake animation](https://raw.githubusercontent.com/MengZe2l/MengZe2l/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 - 👀 I am interested in full stack development
 - 🌱 I am currently learning PHP, Node.js
