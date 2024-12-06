@@ -1,3 +1,9 @@
+> [!TIP]
+> 目前正在开发：
+> - TailDown1.2.0
+> - 新Typecho主题-Tail
+> - 全新个人主页-Tailome
+
 ## 👋 Hi, I'm @MengZe2l
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MengZe2l/MengZe2l/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
